@@ -2,4 +2,4 @@
 
 Project creation date: 2023/2/11
 
-Aurhoe: Andrew Kim
+Author: Andrew Kim
